@@ -6,7 +6,7 @@ module.exports = {
     description: `A data science, software development and general careers blog for budding computer enthusiasts.`,
     siteUrl: `https://computed-and-booted.netlify.com/`,
     social: {
-      twitter: `catstacks`,
+      twitter: `Catstacks4`,
     },
   },
   plugins: [
