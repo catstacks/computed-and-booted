@@ -1,6 +1,6 @@
 ---
 title: Dice App
-date: "2021-01-15T22:12:03.284Z"
+date: "2022-01-15T22:12:03.284Z"
 ---
 
 # **Creating a simple dice app with python**
@@ -234,7 +234,7 @@ dice.dice_roll()
 ```
 ## This project is:
 
-![Python Powered](content/assets/python-power-logo-140x182.png)
+![Python Powered](./python-power-logo-140x182.png)
 
 ### **Congratulations! You have reached the end of this tutorial.**
 
