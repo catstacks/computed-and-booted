@@ -74,7 +74,7 @@ Generate random integer structure >> **the_variable = random.randint(minimum_val
 
 We add a print statement so that the user can actually see the number the dice app generated. To do this we use the print() function. The user will see the text written in the print statement followed by the roll (the randomly generated number).
 
-Print statement with variable structure >> print('The text you want the user to see', a_variable)
+Print statement with variable structure >> **print('The text you want the user to see', a_variable)**
 
 ```python
 #import random
@@ -234,7 +234,7 @@ dice.dice_roll()
 ```
 ## This project is:
 
-<img src="assets/images/python-power-logo-140x182.png"/>
+<img src="assets/python-power-logo-140x182.png"/>
 
 ### **Congratulations! You have reached the end of this tutorial.**
 
