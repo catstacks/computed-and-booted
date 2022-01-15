@@ -234,7 +234,7 @@ dice.dice_roll()
 ```
 ## This project is:
 
-<img src="content/assets/python-power-logo-140x182.png"/>
+![Python Powered](content/assets/python-power-logo-140x182.png)
 
 ### **Congratulations! You have reached the end of this tutorial.**
 
